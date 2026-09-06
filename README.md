@@ -62,16 +62,16 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jagadanandabiswal1818-cell&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadanandabiswal1818-cell&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=jagadanandabiswal1818-cell&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&title_color=39d353&icon_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353" alt="GitHub Stats"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagadanandabiswal1818-cell&layout=compact&langs_count=8&title_color=39d353&text_color=c9d1d9&bg_color=0d1117&border_color=39d353" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadanandabiswal1818-cell&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jagadanandabiswal1818-cell&background=0d1117&border=39d353&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&sideNums=c9d1d9&dates=8b949e&currStreakNum=ffffff" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagadanandabiswal1818-cell&theme=tokyo-night&hide_border=true" alt="Contribution Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jagadanandabiswal1818-cell&bg_color=0d1117&color=39d353&line=39d353&point=ffffff&area=true&hide_border=true" alt="Contribution Graph" width="100%"/>
 </p>
 
 > 📌 **Note:** Total repos, total stars, and total commits are already included inside the "GitHub Stats" card above (top-right of that card). If you'd like a separate standalone badge for stars/repos, you can add shields.io badges once your repo count grows — happy to add those too.
@@ -102,9 +102,5 @@ A showcase of all my projects in one place.
 > ✏️ Replace/add rows here with your best repos — for each one it's usually nicest to link directly to the repo and add a one-line description + tech stack badges (e.g. `React`, `Node.js`, `MySQL`).
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
-</p>
 
 <p align="center"><i>Thanks for visiting my profile! ⭐ Feel free to check out my repositories and connect with me.</i></p>
